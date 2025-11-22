@@ -1,0 +1,7 @@
+C:\yali\for 2\for 4\obj\Debug\for 4.csproj.AssemblyReference.cache
+C:\yali\for 2\for 4\obj\Debug\for 4.csproj.CoreCompileInputs.cache
+C:\yali\for 2\for 4\bin\Debug\for 4.exe.config
+C:\yali\for 2\for 4\bin\Debug\for 4.exe
+C:\yali\for 2\for 4\bin\Debug\for 4.pdb
+C:\yali\for 2\for 4\obj\Debug\for 4.exe
+C:\yali\for 2\for 4\obj\Debug\for 4.pdb
